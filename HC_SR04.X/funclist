@@ -1,0 +1,21 @@
+i1_send_char: CODE, 1039 0 27
+__stringtab: STRING, 898 0 6
+i1_send_config: CODE, 1012 0 27
+i1_send_string: CODE, 863 0 35
+__stringdata: STRING, 904 0 27
+_main: CODE, 508 0 111
+_ISRHigh: CODE, 273 0 235
+_lcd_clr: CODE, 1140 0 16
+__initialization: CODE, 21 0 10
+___lwdiv: CODE, 713 0 62
+_lcd_goto: CODE, 1066 0 26
+_lcd_bcd: CODE, 35 0 238
+_send_string: CODE, 827 0 36
+___lldiv: CODE, 619 0 94
+_send_config: CODE, 958 0 27
+i1_lcd_goto: CODE, 1118 0 22
+___lwmod: CODE, 775 0 52
+_send_char: CODE, 931 0 27
+_delay_ms: CODE, 985 0 27
+i1_delay_ms: CODE, 1092 0 26
+Total: 1131
